@@ -1,0 +1,7 @@
+Server Name: DESKTOP-RFO55H4\CITADEL
+
+Database Name: Utkarsh_Enterprises
+
+Authentication: Windows Authentication
+User Name     : DESKTOP-RFO55H4\Thinkpad T470
+Password      : Kali

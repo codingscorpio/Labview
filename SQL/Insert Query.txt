@@ -1,0 +1,7 @@
+Insert into Service_Calls_Entry values
+('00002', GETDATE(), 'Samarth', 'Utkarsh Enterprises', '7972965098', 'LabVIEW', 'Testing on LabVIEW')
+
+
+
+Insert into Service_Calls_Entry values
+('Asset', GETDATE(), 'Engineer', 'Customer', 'Contact', 'Item', 'Problem')

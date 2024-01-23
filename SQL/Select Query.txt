@@ -1,0 +1,9 @@
+SELECT 
+	Assest_No,
+	FORMAT(In_Date, 'dd MMM yyyy') AS In_Date,
+	Engineer_Name,
+	Customer_Name,
+	Customer_Contact_No,
+	Item_Description,
+	Problem
+FROM Service_Calls_Entry;

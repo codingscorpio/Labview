@@ -1,0 +1,1 @@
+UPDATE Service_Calls_Entry SET Call_Status='Closed', Out_Date = GETDATE(), Checked_By = 'value1',Given_By='change1',Remark='upgrade' WHERE Asset_No='00001';

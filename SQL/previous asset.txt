@@ -1,0 +1,1 @@
+SELECT TOP 1 Asset_No FROM Service_Calls_Entry ORDER BY Asset_No DESC;

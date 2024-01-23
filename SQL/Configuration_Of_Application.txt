@@ -1,0 +1,11 @@
+
+Database info. 
+Table_Name: Service_Calls_Entry
+Coloumn_Name: ('Asset', GETDATE(), 'Engineer', 'Customer', 'Contact', 'Item', 'Problem') should be in exact order. 
+
+service_calls_entries.udl
+
+
+
+Insert into Service_Calls_Entry values
+('Asset', GETDATE(), 'Engineer', 'Customer', 'Contact', 'Item', 'Problem')
